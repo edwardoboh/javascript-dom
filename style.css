@@ -1,0 +1,13 @@
+#mainHeader{
+    text-align: center;
+    background-color: black;
+    color: white;
+    padding: 10px;
+}
+#mainFooter{
+    text-align: center;
+    background-color: black;
+    color: white;
+    padding: 10px;
+    font-size: 18px;
+}
